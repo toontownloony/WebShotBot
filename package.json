@@ -11,7 +11,7 @@
     "start": "node ./"
   },
   "dependencies": {
-    "discord.js": "^11.4.2",
+    "discord.js": "^11.6.4",
     "webshot": "^0.18.0"
   }
 }
